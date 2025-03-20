@@ -1,10 +1,8 @@
-## README
-
-**<span style="color: red;">Nothing to see here.</span>**
+🚨🚨🚨 **Nothing to see here.** 🚨🚨🚨
 
 This repository was created purely for educational purposes.
 
-**<span style="color: red;">NO PROJECTS HERE.</span>**
+🚨🚨🚨 **NO PROJECTS HERE.** 🚨🚨🚨
 
 Sincerely,  
 Ansar Zeinulla
